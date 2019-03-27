@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1047953544059",
+    "firebase_url": "https://tontuber-88760.firebaseio.com",
+    "project_id": "tontuber-88760",
+    "storage_bucket": "tontuber-88760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047953544059:android:4222c2e9ec235cbe",
+        "android_client_info": {
+          "package_name": "com.example.nuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047953544059-tc7eqi2ne32f0pavgmh215rgo36h7oo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nuber",
+            "certificate_hash": "fc8377f829c084bac6ddebff4963fa4a5ecf10ec"
+          }
+        },
+        {
+          "client_id": "1047953544059-0bi89hkv2dnublsj094b1or63aq060ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM4cY8xEm5LUZk0laNKdi8NNT0t_krLq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047953544059-0bi89hkv2dnublsj094b1or63aq060ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
